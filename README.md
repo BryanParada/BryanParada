@@ -3,10 +3,16 @@
 ### <div align="center">I'm Bryan, a full-stack developer 👨‍💻 working since 2017 🚀</div>  
   
 
-- 🔭 I’m currently taking courses to be a better programmer  
+- 🔭 I’m currently taking courses to be a better developer  
   
 
 - 🌱 I’m currently learning Node.JS and RxJS  
+
+
+- 🥅 Goals: i want to find my dream job!
+
+
+- 🏃 Hobbies: I like to play guitar and run
   
 
 <br/>  
