@@ -6,7 +6,7 @@
 - 🔭 I’m currently taking courses to be a better developer  
   
 
-- 🌱 I’m currently learning Node.JS and RxJS  
+- 🌱 I’m currently learning Node.JS, Dart, Flutter and RxJS  
 
 
 - 🥅 Goals: i want to find my dream job!
