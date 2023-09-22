@@ -6,7 +6,7 @@
 - 🔭 I’m currently taking courses to be a better developer  
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Flutter and Docker
 
 
 - 🥅 Goals: i want to find my dream job!
